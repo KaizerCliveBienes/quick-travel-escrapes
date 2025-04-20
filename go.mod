@@ -1,4 +1,4 @@
-module findeventsberlin
+module quick-travel-escrapes
 
 go 1.23.0
 

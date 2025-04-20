@@ -1,7 +1,7 @@
 package main
 
 import (
-	"findeventsberlin/summarizer"
+	"quick-travel-escrapes/summarizer"
 	"fmt"
 	"log"
 	"net/http"
